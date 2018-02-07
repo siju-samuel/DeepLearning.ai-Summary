@@ -1,6 +1,6 @@
 # DeepLearning.ai Courses Notes
 
-This repository contains my personal notes and summaries on [DeepLearning.ai](https://deeplearning.ai) course. I've enjoyed every little bit of the course hope you enjoy my notes too.
+This repository contains notes and summaries on [DeepLearning.ai](https://deeplearning.ai) course. I've enjoyed every little bit of the course hope you enjoy my notes too.
 
 [DeepLearning.ai](https://deeplearning.ai)  contains five courses which can be taken on [Coursera](https://www.coursera.org/specializations/deep-learning). The five courses titles are:
 
